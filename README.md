@@ -8,11 +8,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/tineshnehte/2dai/releases"><img src="https://img.shields.io/github/v/release/tineshnehte/2dai?color=6C4DFF&label=version&style=flat-square" alt="Version" /></a>
-  <a href="https://github.com/tineshnehte/2dai/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square" alt="License" /></a>
-  <a href="https://github.com/tineshnehte/2dai/stargazers"><img src="https://img.shields.io/github/stars/tineshnehte/2dai?color=FFB703&style=flat-square" alt="Stars" /></a>
-  <a href="https://github.com/tineshnehte/2dai/issues"><img src="https://img.shields.io/github/issues/tineshnehte/2dai?style=flat-square" alt="Issues" /></a>
-  <a href="https://github.com/tineshnehte/2dai/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome" /></a>
+  <a href="https://github.com/tineshnehete/2dai/releases"><img src="https://img.shields.io/github/v/release/tineshnehete/2dai?color=6C4DFF&label=version&style=flat-square" alt="Version" /></a>
+  <a href="https://github.com/tineshnehete/2dai/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-Apache%202.0-blue?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/tineshnehete/2dai/stargazers"><img src="https://img.shields.io/github/stars/tineshnehete/2dai?color=FFB703&style=flat-square" alt="Stars" /></a>
+  <a href="https://github.com/tineshnehete/2dai/issues"><img src="https://img.shields.io/github/issues/tineshnehete/2dai?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/tineshnehete/2dai/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome" /></a>
   <img src="https://img.shields.io/badge/status-in%20development-orange?style=flat-square" alt="Status" />
 </p>
 
@@ -183,7 +183,7 @@ The frontend consumes a Server-Sent Events stream. As LangGraph emits canvas pat
 ### Clone and Install
 
 ```bash
-git clone https://github.com/tineshnehte/2dai.git
+git clone https://github.com/tineshnehete/2dai.git
 cd 2dai
 
 # Install all workspace dependencies
@@ -288,21 +288,21 @@ Contributions are welcome - bug reports, new features, docs improvements, all of
 4. Push: `git push origin feat/your-feature`
 5. Open a Pull Request
 
-Read [CONTRIBUTING.md](CONTRIBUTING.md) for code standards and the review process. Good first issues are tagged [`good first issue`](https://github.com/tineshnehte/2dai/issues?q=label%3A%22good+first+issue%22) on GitHub.
+Read [CONTRIBUTING.md](CONTRIBUTING.md) for code standards and the review process. Good first issues are tagged [`good first issue`](https://github.com/tineshnehete/2dai/issues?q=label%3A%22good+first+issue%22) on GitHub.
 
 ---
 
 ## Community
 
-- Bugs and features -> [GitHub Issues](https://github.com/tineshnehte/2dai/issues)
-- Ideas and discussion -> [GitHub Discussions](https://github.com/tineshnehte/2dai/discussions)
+- Bugs and features -> [GitHub Issues](https://github.com/tineshnehete/2dai/issues)
+- Ideas and discussion -> [GitHub Discussions](https://github.com/tineshnehete/2dai/discussions)
 - Updates -> [@tineshnehete](https://twitter.com/tineshnehete)
 
 ---
 
 ## License
 
-Copyright (c) 2026 [tineshnehte](https://github.com/tineshnehte)
+Copyright (c) 2026 [tineshnehete](https://github.com/tineshnehete)
 
 Licensed under the [Apache License 2.0](LICENSE). Use it, modify it, distribute it - including commercially. Just keep the attribution.
 
@@ -312,5 +312,5 @@ Licensed under the [Apache License 2.0](LICENSE). Use it, modify it, distribute 
   <br/>
   If 2DAI helps you, a star on GitHub goes a long way.
   <br/><br/>
-  Built by <a href="https://github.com/tineshnehte">@tineshnehte</a> and contributors
+  Built by <a href="https://github.com/tineshnehete">@tineshnehete</a> and contributors
 </div>
